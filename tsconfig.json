@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "./dist",
+        "preserveConstEnums": true,
+        "inlineSourceMap": true,
+        "removeComments": false
+    },
+    "compileOnSave": false,
+    "include": [
+        "src/"
+    ],
+    "exclude": [
+        "./node_modules/*"
+    ]
+}
