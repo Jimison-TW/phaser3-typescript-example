@@ -1,6 +1,6 @@
 import GameConfig = Phaser.Types.Core.GameConfig;
 
-module GameMain {
+module phaser_web_tutorial {
   const config: GameConfig = {
     type: Phaser.AUTO,
     width: 800,
@@ -50,5 +50,5 @@ module GameMain {
   }
 }
 
-GameMain.start();
+phaser_web_tutorial.start();
 

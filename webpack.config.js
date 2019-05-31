@@ -2,7 +2,8 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    'phaser-web-tutorial': './src/phaser-web-tutorial/phaser-web-tutorial.ts'
+    'phaser-web-tutorial': './src/phaser-web-tutorial/phaser-web-tutorial.ts',
+    'GridAlign': './src/Actions/GridAlign/GridAlign.ts'
   },
   module: {
     rules: [

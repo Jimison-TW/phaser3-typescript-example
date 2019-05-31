@@ -3,3 +3,6 @@ node_modules/
 
 # the result is made by "yarn build" or "yarn start"
 build/
+
+# self folder
+template/
